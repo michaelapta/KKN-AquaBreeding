@@ -1,2 +1,7 @@
 # KKN-AquaBreeding
 KKN rekomendasi dosen, Semester 4
+
+Di bidang perikanan secara khusus dan pertanian secara umum terdapat permasalahan yang fundamendal dan mendesak untuk dipecahkan,  yaitu berkaitan dengan kesejahteraan petani yang dibatasi oleh nilai jual komoditas perikanan yang dibawah cost yang keluar yang dihasilkan selama satu musim budidaya. Selama ini belum pernah ada data yang menunjukkan bahwa hipotesa ini benar yang menyatakan cost melebihi nilai jual di tingkat Petani/Pembudidaya. Namun hal ini telah dikonfirmasi ke Dinas Perikanan dan Peternakan Kabupaten Bogor yang menginformasikan penentuan nilai jual perikanan ditentukan bukan oleh supply and demand namun oleh spekulasi distributor yang menentukan harga di tingkat eceran akhir.
+Tujuan pengabdian masyarakat ini adalah untuk memecahkan permasalahan tersebut dengan memberikan data supply and demand yang real melalui aplikasi Aqua Breeding yang akan dipergunakan oleh para Pembudidaya. Output dari pengabdian masyarakat ini adalah penerapan aplikasi Manajemen Budidaya dan penentuan nilai jual komoditas perikanan di tingkat Kecamatan Jasinga dengan dukungan dari Dinas Perikanan dan Peternakan Kabupaten Bogor.
+
+saya sebagai ketua anggota marketing & design, berfokus dalam bidang struktur design, dokumentasi, pengarsipan data di lapangan, dan sarana penghubung antara: Dosen pembimbing, team developer app, team marketing & design, dan team Aqua Resto.
